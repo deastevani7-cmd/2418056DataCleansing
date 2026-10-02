@@ -60,7 +60,7 @@ Beberapa perubahan yang dihasilkan yaitu:
   **`2418056_Datacleansing.ipynb`**
 Berisi coding Python yang digunakan untuk melakukan proses data cleansing.
 
-## Google Drive
+#Google Drive
 Dataset kotor dan dataset bersih dapat dilihat melalui:
 **(https://drive.google.com/drive/folders/1ZR70wUSKzpOW70yN5oib3EeTp0AhQaJ8?usp=sharing)**
 
