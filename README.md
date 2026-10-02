@@ -25,7 +25,7 @@ Dataset memiliki beberapa kolom, yaitu:
 - Status
 - Tanggal_Masuk
 
-## Permasalahan Data
+# Permasalahan Data
 Pada dataset awal terdapat beberapa data yang belum konsisten, terutama pada penulisan nama, departemen, jabatan, kota, status, dan format tanggal masuk. Beberapa data menggunakan huruf besar dan kecil yang berbeda, 
 seperti `malang`, `MALANG`, dan `Malang`,serta `aktif`, `AKTIF`, dan `Aktif`. 
 Selain itu, format tanggal juga masih berbeda-beda seperti `12/01/2022`, `2022-02-15`, `15-03-2022`, dan `2022/05/10`. 
@@ -60,7 +60,7 @@ Beberapa perubahan yang dihasilkan yaitu:
   **`2418056_Datacleansing.ipynb`**
 Berisi coding Python yang digunakan untuk melakukan proses data cleansing.
 
-#Google Drive
+# Google Drive
 Dataset kotor dan dataset bersih dapat dilihat melalui:
 **(https://drive.google.com/drive/folders/1ZR70wUSKzpOW70yN5oib3EeTp0AhQaJ8?usp=sharing)**
 
