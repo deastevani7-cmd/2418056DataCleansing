@@ -67,6 +67,6 @@ Dataset kotor dan dataset bersih dapat dilihat melalui:
 
 # Google Colab
 Coding proses data cleansing dapat dilihat melalui:
-**[](https://colab.research.google.com/drive/1TKkzGMlGbKJ1ssA0vLnlnxmkB3pM1mn8?usp=sharing)]**
+**[(https://colab.research.google.com/drive/1TKkzGMlGbKJ1ssA0vLnlnxmkB3pM1mn8?usp=sharing)]**
 
 
