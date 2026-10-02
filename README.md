@@ -31,7 +31,7 @@ seperti `malang`, `MALANG`, dan `Malang`,serta `aktif`, `AKTIF`, dan `Aktif`.
 Selain itu, format tanggal juga masih berbeda-beda seperti `12/01/2022`, `2022-02-15`, `15-03-2022`, dan `2022/05/10`. 
 Oleh karena itu, data perlu dibersihkan dan diseragamkan agar lebih rapi, konsisten, dan mudah diolah.
 
-## Proses Data Cleansing
+# Proses Data Cleansing
 Proses data cleansing dilakukan menggunakan Python dengan library Pandas melalui Google Colab.
 Tahapan proses yang dilakukan meliputi:
 1. Membaca dataset karyawan menggunakan Python.
@@ -46,7 +46,7 @@ Tahapan proses yang dilakukan meliputi:
 10. Mengecek kembali data setelah proses cleansing.
 11. Menyimpan hasil akhir ke dalam file Excel.
 
-## Hasil
+# Hasil
 Setelah dilakukan proses data cleansing, dataset menjadi lebih rapi dan konsisten.
 Beberapa perubahan yang dihasilkan yaitu:
 - Penulisan nama menjadi lebih seragam.
@@ -56,17 +56,17 @@ Beberapa perubahan yang dihasilkan yaitu:
 - Penulisan jabatan menjadi konsisten.
 - Format tanggal masuk diseragamkan.
 
-  ## Output
+# Output
   **`2418056_Datacleansing.ipynb`**
 Berisi coding Python yang digunakan untuk melakukan proses data cleansing.
 
 ## Google Drive
 Dataset kotor dan dataset bersih dapat dilihat melalui:
-**[(https://drive.google.com/drive/folders/1ZR70wUSKzpOW70yN5oib3EeTp0AhQaJ8?usp=sharing)]**
+**(https://drive.google.com/drive/folders/1ZR70wUSKzpOW70yN5oib3EeTp0AhQaJ8?usp=sharing)**
 
 
 # Google Colab
 Coding proses data cleansing dapat dilihat melalui:
-**[(https://colab.research.google.com/drive/1TKkzGMlGbKJ1ssA0vLnlnxmkB3pM1mn8?usp=sharing)]**
+**(https://colab.research.google.com/drive/1TKkzGMlGbKJ1ssA0vLnlnxmkB3pM1mn8?usp=sharing)**
 
 
